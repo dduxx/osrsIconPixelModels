@@ -64,3 +64,7 @@ This requires [OpenSCAD](https://openscad.org/) (nightly) to be installed.
 
 - If you would like different height mappings, submit a pull request adjusting the `height_map` in the relevant JSON file under `fixtures/skills/`, `fixtures/runes/`, or `fixtures/capes/`.
 - If you want to add new features or make changes to the code, pull requests are welcome.
+
+## Planned Features
+
+- Magnetic Stand for Capes
